@@ -1,1 +1,2 @@
-# nginxConf
+# nginx-stage
+nginx for stage
